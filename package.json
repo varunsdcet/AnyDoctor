@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
     "@react-native-community/geolocation": "^2.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "random-string": "^0.2.0",
     "react": "16.8.6",
